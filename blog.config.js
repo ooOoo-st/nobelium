@@ -1,4 +1,6 @@
-const BLOG = {
+const BLOG = { NOTION_PAGE_ID:
+    process.env.NOTION_PAGE_ID ||
+    '1484f67fb4f8809887c4efd9a2468688,en:1484f67fb4f8809887c4efd9a2468688',
   title: 'CRAIGARY',
   author: 'Craig Hart',
   email: 'i@craigary.net',
