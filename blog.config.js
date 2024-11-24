@@ -1,4 +1,4 @@
-const BLOG = {NOTION_PAGE_ID:
+const BLOG = {
   title: 'CRAIGARY',
   author: 'Craig Hart',
   email: 'i@craigary.net',
